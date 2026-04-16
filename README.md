@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  
+
+https://github.com/user-attachments/assets/7d0e4699-0ee4-4a66-948e-212c3d9952b5
+
+
   <a href="./docs/assets/hireflow-demo.mp4">
     <img src="./docs/assets/hireflow-demo-cover.jpg" alt="HireFlow product demo cover" width="960" />
   </a>
